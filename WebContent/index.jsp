@@ -9,6 +9,7 @@
 	</head>
 	<body>
 		<h3>로그인 페이지</h3>
+		<form action="">
 		<table>
 			<tr>
 				<td>ID</td>	
@@ -23,6 +24,7 @@
 				<button>로그 인</button>
 			</tr>
 		</table>
+		</form>
 	</body>
 	<script>
 	</script>
