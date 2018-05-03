@@ -17,11 +17,10 @@
 			</tr>
 			<tr>
 				<td>PW</td>	
-				<td><input type="text" name ="userPw"/></td>
+				<td><input type="password" name ="userPw"/></td>
 			</tr>
 			<tr>
 				<td collspan ="2"></td>
-				<button>로그 인</button>
 			</tr>
 		</table>
 		</form>
